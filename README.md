@@ -12,33 +12,33 @@ Another way to load the file is loading it from model/
 ## Directory structure
 Have the directory structure in the following way :
 
-.
-└── Sketch-to-Color/
-    ├── preprocessing.py
-    ├── sketch_to_color.py
-    ├── Sketch_to_Color.ipynb
-    ├── archive/
-    │   └── data/
-    │       ├── colorgram/
-    │       ├── data/
-    │       ├── train/
-    │       └── val/
-    ├── sample_images/
-    │   └── sample.png
-    ├── Videos/
-    │   ├── demo.mp4
-    │   └── python_demo.mp4
-    ├── checkpts/
-    │   ├── checkpoint
-    │   ├── chkpt-21.data-00000-of-00001
-    │   └── chkpt-21.index
-    ├── model/
-    │   ├── assets
-    │   ├── variables/
-    │   │   ├── variables-data-00000-of-00001
-    │   │   └── variables.index
-    │   └── saved-model.pb
-    └── README.md
+.<br>
+└── Sketch-to-Color/<br>
+    ├── preprocessing.py<br>
+    ├── sketch_to_color.py<br>
+    ├── Sketch_to_Color.ipynb<br>
+    ├── archive/<br>
+    │   └── data/<br>
+    │       ├── colorgram/<br>
+    │       ├── data/<br>
+    │       ├── train/<br>
+    │       └── val/<br>
+    ├── sample_images/<br>
+    │   └── sample.png<br>
+    ├── Videos/<br>
+    │   ├── demo.mp4<br>
+    │   └── python_demo.mp4<br>
+    ├── checkpts/<br>
+    │   ├── checkpoint<br>
+    │   ├── chkpt-21.data-00000-of-00001<br>
+    │   └── chkpt-21.index<br>
+    ├── model/<br>
+    │   ├── assets<br>
+    │   ├── variables/<br>
+    │   │   ├── variables-data-00000-of-00001<br>
+    │   │   └── variables.index<br>
+    │   └── saved-model.pb<br>
+    └── README.md<br>
 
 Note that archive : folder after downloading the dataset from Kaggle.
 
